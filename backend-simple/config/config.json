@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "amazonaws",
+    "password": "GiP1qGnzW1QXMLdBJEwR",
+    "database": "simple",
+    "host": "tr-simple-db.ceyw6an2iueo.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "amazonaws",
+    "password": "GiP1qGnzW1QXMLdBJEwR",
+    "database": "simple",
+    "host": "tr-simple-db.ceyw6an2iueo.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "amazonaws",
+    "password": "GiP1qGnzW1QXMLdBJEwR",
+    "database": "simple",
+    "host": "tr-simple-db.ceyw6an2iueo.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
